@@ -12,7 +12,8 @@ Author URI : http://www.markups.io/
 .mu-team-content-single:hover {
 	background: #1D2A4C;  /* fallback for old browsers */
 	background: -webkit-linear-gradient(to right, #1D2A4C, #45c7dc);  /* Chrome 10-25, Safari 5.1-6 */
-	background: linear-gradient(to right, #1D2A4C, #45c7dc); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+	background: linear-gradient(to right, #1D2A4C, #45c7dc);
+	background: rgba(69, 199, 220, 0.5); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
 
 .mu-heading-title>span,
